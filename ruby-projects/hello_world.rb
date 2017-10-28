@@ -5,8 +5,8 @@ puts "hello world"
 hello = "hello world!"
 puts hello
 
-def say_hello
-    puts "Hello World!"
+def say_hello(anything)
+    puts anything
 end
 
-say_hello
+say_hello("helloooo")
