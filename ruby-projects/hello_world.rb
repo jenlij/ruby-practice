@@ -4,3 +4,9 @@ puts "hello world"
 
 hello = "hello world!"
 puts hello
+
+def say_hello
+    puts "Hello World!"
+end
+
+say_hello
